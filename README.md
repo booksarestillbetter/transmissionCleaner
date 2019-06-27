@@ -17,3 +17,10 @@ or use cpan install then the above minus cpanm
 edit the settings.conf and include the one host, or multiple if you have different seed boxes.
 
 if you don't want to go through all that, you can try the super old one that watches the log of transmission, but no promises there.
+
+### to run
+modify the settings.conf, there are some examples, it doesn't support auth, but i could add that if you want.
+
+
+run with
+./cleanTransmission.pl
